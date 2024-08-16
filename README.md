@@ -1,16 +1,7 @@
-# googlesignuppage
+# googlesign
 
-A new Flutter project.
+구글 로그인 예제
 
-## Getting Started
+## 기능
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+구글 로그인을 지원하며 로그인 할 시 페이지가 이동 되도록 구현

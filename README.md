@@ -17,6 +17,6 @@
 - **`home_page.dart`**: 로그인된 사용자의 이름을 표시하고, 로그아웃 버튼을 제공
 
 ## 사용된 패키지 📦
-firebase_core: Firebase 초기화를 위한 패키지
-firebase_auth: Firebase 인증 기능을 제공하는 패키지
-google_sign_in: Google 로그인을 위한 패키지
+- [firebase_core](https://pub.dev/packages/firebase_core): Firebase 초기화를 위한 패키지
+- [firebase_auth](https://pub.dev/packages/firebase_auth): Firebase 인증 기능을 제공하는 패키지
+- [google_sign_in](https://pub.dev/packages/google_sign_in) : Google 로그인을 위한 패키지
